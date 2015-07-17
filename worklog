@@ -1,0 +1,38 @@
+11/6:
+	where was I???
+	should have made this sooner ><
+	done:
+		race lane for one user
+	next:
+		how to connect many user?
+		session??
+		style of text in textarea, need to be better
+
+12/6
+	front-end quite ok now, can be accepted at this stage
+	next: back-end, remember the main intension is node not jquey -_-
+		how to have many players on the same race??
+
+7/7
+	got to come back ha?
+	so where was I last time??
+	need something like a mediator, no controller is more suitable
+	controller need to know when there is a new comer, and give it a id?
+
+	ok it's not really hard right :),
+	but I still feel uneasy to code, actually this makes sense cause I haven't coded node for a long time
+	still need little more time to get used to it again
+
+	ok where am i
+	strategy for communication is quite ok now
+	problem now is how to restart the socket connection to have an 'init' event whenever users start a new race?
+
+8/7
+	ok where am I??
+	basically everything seems ok now almost finish 
+	wait the backend seems finished already
+		ah ha it's time for database integration for passge and user or maybe not just passage is enough
+		user is for further development
+
+	after that it's time for frontend
+	need the signal to start, and finish time also, so backend still involves

@@ -1,0 +1,14 @@
+extends layout
+
+block content
+  span(id="let-race" style="border-radius: 5px; padding: 5px; border: 5px solid #FA0E3B; background-color: chartreuse; font-size: 30px") Let's race
+  div
+  br
+  br
+  div(id="lane" style="border-radius: 5px; padding: 20px;border: 2px solid #8AC007")
+  p(id="content" style="  border-radius: 5px; padding: 20px; border: 2px solid #131311; background-color: mistyrose")
+  div(id="type-area" style="  word-break: break-all; font-size: x-large; border-radius: 5px; padding: 20px; border: 5px solid #8C1586; background-color: springgreen;")
+    input(type="text" placeholder style="margin-left: 5px; width: 1px; height: 25px; padding:0px; border:0px; display: none" size="1" autofocus="true")
+  script(src="https://cdn.socket.io/socket.io-1.3.5.js")
+  script(src="/jquery/dist/jquery.min.js")
+  script(src="/javascripts/index.js")
